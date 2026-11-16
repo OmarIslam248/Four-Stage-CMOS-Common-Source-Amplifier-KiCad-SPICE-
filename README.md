@@ -1,7 +1,5 @@
 # Four-Stage CMOS Common-Source Amplifier (KiCad SPICE)
 
-📄 **Full report:** [MOSFET_Amplifier_Report.pdf](docs/MOSFET_Amplifier_Report.pdf)
-
 A cascaded four-stage common-source MOSFET voltage amplifier, sized by hand and then checked in KiCad's SPICE simulator. It was completed for ELE404 at Toronto Metropolitan University, using GlobalFoundries 180 nm CMOS process parameters and a single 3.3 V supply.
 
 ## Design Goals
